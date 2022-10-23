@@ -1,4 +1,4 @@
-# YTB-DOWNLOADER-WITH-GUI
+# PYTHON-YTB-DOWNLOADER-WITH-GUI
 
 This tool is able to download videos from Youtube and convert them in MP4 only (for the moment ;).
 
