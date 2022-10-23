@@ -9,3 +9,5 @@ LITTLE REMINDER :
 /!\ Downloading copyrighted video or audio from Youtube is illegal. I am not responsible for your use of this tool.
 
 This tool is still under developpment and may be unstable. In case of bugs, let me know here. Thanks for your support !
+
+You can download "YTB_DOWNLOADER" folder to get an executable file ! Otherwise you can download the Python's script and the "img" folder!
