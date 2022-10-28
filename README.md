@@ -10,4 +10,5 @@ LITTLE REMINDER :
 
 This tool is still under developpment and may be unstable. In case of bugs, let me know here. Thanks for your support !
 
-You can download "YTB_DOWNLOADER" folder to get an executable file ! Otherwise you can download the Python's script and the "img" folder!
+You can download the "YTB_DOWNLOADER" folder to get an executable file with this Google Drive link : https://drive.google.com/file/d/12TjWv4cAZeb4F84JxA6mTqch1THOFDwK/view?usp=sharing 
+Otherwise you can download the Python's script and the "img" folder!
