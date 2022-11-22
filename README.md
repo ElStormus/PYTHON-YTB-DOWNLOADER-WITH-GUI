@@ -24,6 +24,6 @@ To get and lunch the .exe :
 
 - Download the "YTB_Downloader_exe.zip" zip file.
 - Unzip the zip file.
-- Lunch the "YTB_Downloader.exe" file
+- Lunch the "YTB_Downloader.exe" file :
 ![image](https://user-images.githubusercontent.com/69874117/203387344-e93bc8fe-6e97-45ce-9e23-19d724783aa9.png)
 - Enjoy!
